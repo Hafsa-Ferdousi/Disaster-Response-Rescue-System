@@ -29,6 +29,10 @@ such as distance, capacity, and medical facilities.
 
 ##  Core Logic
 
+### System Workflow Overview
+![Overall System Workflow](https://github.com/user-attachments/assets/0b1b681b-945f-4851-8378-37925fe6f057)
+
+
 ###  Victim Management
 - Victims are assigned:
   - Unique ID
@@ -123,6 +127,9 @@ Roads can be:
 Blocked roads are ignored during shortest path calculation
 
 ---
+## System Architecture
+
+<img width="421" height="611" alt="246Architecture Diagram drawio" src="https://github.com/user-attachments/assets/664572cb-bee0-4cf6-9fe0-f6516ac59cf4" />
 
 ##  Algorithms Used
 
@@ -132,6 +139,10 @@ Blocked roads are ignored during shortest path calculation
 - Greedy decision-making
 
 ---
+## Program Flowchart
+<img width="1024" height="1536" alt="flowchart" src="https://github.com/user-attachments/assets/94726323-8463-4b5c-9946-572ab1a1ab1b" />
+
+
 
 ## Menu Options
 
