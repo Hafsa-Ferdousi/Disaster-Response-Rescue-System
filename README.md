@@ -140,7 +140,7 @@ Blocked roads are ignored during shortest path calculation
 
 ---
 ## Program Flowchart
-<img width="1024" height="1536" alt="flowchart" src="https://github.com/user-attachments/assets/94726323-8463-4b5c-9946-572ab1a1ab1b" />
+<img width="800" height="1200" alt="flowchart" src="https://github.com/user-attachments/assets/94726323-8463-4b5c-9946-572ab1a1ab1b" />
 
 
 
