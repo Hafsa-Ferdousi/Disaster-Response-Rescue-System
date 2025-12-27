@@ -142,7 +142,35 @@ Blocked roads are ignored during shortest path calculation
 ## Program Flowchart
 <img width="800" height="1200" alt="flowchart" src="https://github.com/user-attachments/assets/94726323-8463-4b5c-9946-572ab1a1ab1b" />
 
+---
 
+## System Output
+
+#### Main Menu
+<img width="754" height="380" alt="Screenshot 2025-12-17 030412" src="https://github.com/user-attachments/assets/7ad8c0d8-44f7-4e9f-a4be-ddc54c4cd6fd" />
+
+#### Add Victim
+<img width="737" height="509" alt="Screenshot 2025-12-17 030702" src="https://github.com/user-attachments/assets/c0b14af7-adbf-468b-b4bf-850b5cadea20" />
+
+#### After Adding Victim Show Status
+<img width="1080" height="920" alt="Screenshot 2025-12-17 030900" src="https://github.com/user-attachments/assets/620c1fd5-c191-4a42-9394-9d50d47a4d54" />
+
+#### Dispatch rescue
+<img width="1084" height="262" alt="Screenshot 2025-12-17 031150" src="https://github.com/user-attachments/assets/2e8ee09c-9837-43f2-a1a1-d2c559180f56" />
+
+#### After Dispatch rescue Show status
+<img width="993" height="876" alt="Screenshot 2025-12-17 031524" src="https://github.com/user-attachments/assets/da37e0d9-08d5-4d61-b748-25a7c5be6c32" />
+
+#### Block Road
+<img width="926" height="632" alt="Screenshot 2025-12-17 031700" src="https://github.com/user-attachments/assets/8f6873e6-6469-4d48-839e-247260f2d2fe" />
+
+#### After Bocking Road Show Status
+<img width="1022" height="913" alt="Screenshot 2025-12-17 031833" src="https://github.com/user-attachments/assets/603d750f-a3b4-4fb4-94e7-1214f22a2e53" />
+
+#### Unblock Road
+<img width="1045" height="660" alt="Screenshot 2025-12-17 032145" src="https://github.com/user-attachments/assets/dbddea78-dfb9-4dd7-a800-a81b04c8a59c" />
+
+---
 
 ## Menu Options
 
